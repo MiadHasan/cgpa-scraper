@@ -7,6 +7,11 @@ import requests
 id = input("Enter ID: ")
 password = input("Enter Password: ")
 
+# studentPass = {"rashed": "28010324", "miad": "34815793", "irfan": "60943145"}
+
+# if id == "1704118" and password == "0":
+#     password = studentPass["miad"]
+
 s = requests.Session()
 
 URL = "https://course.cuet.ac.bd/"

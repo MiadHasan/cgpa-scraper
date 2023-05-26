@@ -1,0 +1,3 @@
+Required Modules
+BeautifulSoup4
+Installation Process: pip install beautifulsoup4
